@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+content-type: application/json
+
+{
+    "title": "asdfaiudf",
+  "author": "String222",
+  "url": "String222",
+  "likes": 56676756,
+  "creator":"5e56b2395608a90ad8ce4b5c"
+}

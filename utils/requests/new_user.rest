@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/users
+content-type: application/json
+
+{
+    "name":"steve",
+    "username":"bamboo2",
+    "password":"password"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJhbWJvbzIiLCJwYXNzd29yZCI6IiQyYiQwOCRjWUsuN2R6eFRYVWRGMWlmZWk1Wmx1U2p3VmtGd0tGSnhRcXhKa1Nzb3p5VGZod3FWWUs0SyIsImlhdCI6MTU4MjgzNjM2Mn0.1RqaiEhhu6vbvS20wwA0nBgHRkoN6GaSM4uIlJB2JvI
